@@ -1,0 +1,7 @@
+
+// MARK: - Base
+
+"error" = "Error";
+"ok" = "Ok";
+"cancel" = "Cancel";
+"done" = "Done";
